@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[Route]
 (
 	[RouteID] INT NOT NULL PRIMARY KEY IDENTITY, 
-    [DepartureID] INT NULL, 
+    [DepartureAirportID] INT NULL, 
     [ArrivalAirportID] INT NULL
 )

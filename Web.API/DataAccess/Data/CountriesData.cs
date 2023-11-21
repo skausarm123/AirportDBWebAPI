@@ -23,6 +23,6 @@ namespace DataAccess.Data
             _db.SaveData(storedProcedure: "SP_InsertCountry", new { countries.Name });
 
         public Task DeleteCountry(int geographyLevel1ID) =>
-            _db.SaveData(storedProcedure: "DeleteCountry", new { GeographyLevel1ID = geographyLevel1ID });
+            _db.SaveData(storedProcedure: "SP_DeleteCountry", new { GeographyLevel1ID = geographyLevel1ID });
     }
 }

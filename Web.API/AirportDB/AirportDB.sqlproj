@@ -68,7 +68,7 @@
     <Build Include="dbo\Tables\Route.sql" />
     <Build Include="dbo\StoredProcedures\SP_GetCountries.sql" />
     <Build Include="dbo\StoredProcedures\SP_InsertCountry.sql" />
-    <Build Include="dbo\StoredProcedures\DeleteCountry.sql" />
+    <Build Include="dbo\StoredProcedures\SP_DeleteCountry.sql" />
     <Build Include="dbo\StoredProcedures\SP_GetRoutes.sql" />
     <Build Include="dbo\StoredProcedures\SP_InsertRoute.sql" />
     <Build Include="dbo\Tables\AirportGroup.sql" />

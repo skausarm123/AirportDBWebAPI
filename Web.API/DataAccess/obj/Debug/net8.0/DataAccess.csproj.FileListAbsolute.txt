@@ -11,3 +11,16 @@ F:\ShamaProjectCode\Airport\Web.API\DataAccess\obj\Debug\net8.0\DataAccess.dll
 F:\ShamaProjectCode\Airport\Web.API\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 F:\ShamaProjectCode\Airport\Web.API\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 F:\ShamaProjectCode\Airport\Web.API\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\bin\Debug\net8.0\DataAccess.dll
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\obj\Debug\net8.0\DataAccess.dll
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

@@ -9,6 +9,8 @@
             app.MapGet(pattern: "/countries", GetCountries);
             app.MapPost(pattern: "/countries", InsertCountry);
             app.MapDelete(pattern: "/countries", DeleteCountry);
+            app.MapGet(pattern: "/routes", GetRoutes);
+            app.MapPost(pattern: "/routes", InsertRoute);
 
         }
         private static async Task<IResult> GetAirports(IAirportData data)
@@ -28,7 +30,7 @@
             {
                 var results=await data.GetAiportDetailsWithId(id);
                 if (results == null) return Results.NotFound(id);
-                return Results.Ok(await data.GetAirports());
+                return Results.Ok(await data.GetAiportDetailsWithId(id));
             }
             catch (Exception ex)
             {   
@@ -64,6 +66,29 @@
             try
             {
                 await data.DeleteCountry(geographyLevel1ID);
+                return Results.Ok();
+            }
+            catch (Exception ex)
+            {
+                return Results.Problem(ex.Message);
+            }
+        }
+        private static async Task<IResult> GetRoutes(IRouteData data)
+        {
+            try
+            {
+                return Results.Ok(await data.GetRoutes());
+            }
+            catch (Exception ex)
+            {
+                return Results.Problem(ex.Message);
+            }
+        }
+        private static async Task<IResult> InsertRoute(RouteModel route, IRouteData data)
+        {
+            try
+            {
+                await data.InsertRoutes(route);
                 return Results.Ok();
             }
             catch (Exception ex)

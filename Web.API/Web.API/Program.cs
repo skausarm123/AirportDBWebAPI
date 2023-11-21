@@ -14,6 +14,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<ISqlDataAccess, SqlDataAccess>();
 builder.Services.AddSingleton<IAirportData, AirportData>();
 builder.Services.AddSingleton<ICountriesData,CountriesData>();
+builder.Services.AddSingleton<IRouteData, DataAccess.Data.RouteData>();
 
 
 var app = builder.Build();

@@ -9,3 +9,4 @@ insert into dbo.[Airport]
 values('LAX',3,'Arrival Only')
 
 --end
+GO

@@ -4,3 +4,13 @@ F:\ShamaProjectCode\Airport\Web.API\AirportDB\bin\Debug\AirportDB.pdb
 F:\ShamaProjectCode\Airport\Web.API\AirportDB\obj\Debug\AirportDB.sqlproj.AssemblyReference.cache
 F:\ShamaProjectCode\Airport\Web.API\AirportDB\obj\Debug\AirportDB.dll
 F:\ShamaProjectCode\Airport\Web.API\AirportDB\obj\Debug\AirportDB.pdb
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\AirportDB\bin\Debug\AirportDB.dacpac
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\AirportDB\bin\Debug\AirportDB.dll
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\AirportDB\bin\Debug\AirportDB.pdb
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\AirportDB\obj\Debug\AirportDB.sqlproj.AssemblyReference.cache
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\AirportDB\obj\Debug\AirportDB.dll
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\AirportDB\obj\Debug\AirportDB.pdb
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\AirportDB\obj\Debug\Model.xml
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\AirportDB\obj\Debug\refactor.xml
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\AirportDB\obj\Debug\postdeploy.sql
+F:\ShamaProjectCode\AirportDBWebAPI\Web.API\AirportDB\obj\Debug\predeploy.sql
