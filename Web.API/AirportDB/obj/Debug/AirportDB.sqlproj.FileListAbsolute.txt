@@ -1,0 +1,6 @@
+F:\ShamaProjectCode\Airport\Web.API\AirportDB\bin\Debug\AirportDB.dacpac
+F:\ShamaProjectCode\Airport\Web.API\AirportDB\bin\Debug\AirportDB.dll
+F:\ShamaProjectCode\Airport\Web.API\AirportDB\bin\Debug\AirportDB.pdb
+F:\ShamaProjectCode\Airport\Web.API\AirportDB\obj\Debug\AirportDB.sqlproj.AssemblyReference.cache
+F:\ShamaProjectCode\Airport\Web.API\AirportDB\obj\Debug\AirportDB.dll
+F:\ShamaProjectCode\Airport\Web.API\AirportDB\obj\Debug\AirportDB.pdb

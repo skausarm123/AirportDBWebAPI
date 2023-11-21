@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Airport]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Recreate table
+       [dbo].[Airport] (Table)
+     Create
+       [dbo].[AirportGroup] (Table)
+       [dbo].[Countries] (Table)
+       [dbo].[Route] (Table)
+       [dbo].[DeleteCountry] (Procedure)
+       [dbo].[SP_GetCountries] (Procedure)
+       [dbo].[SP_GetRoutes] (Procedure)
+       [dbo].[SP_InsertCountry] (Procedure)
+       [dbo].[SP_InsertRoute] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[SP_GetAiportDetailWithID] (Procedure)
+       [dbo].[SP_GetAirportDetails] (Procedure)

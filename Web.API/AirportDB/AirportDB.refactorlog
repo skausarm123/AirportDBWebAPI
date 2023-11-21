@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="6f31fdce-6184-4c80-a69d-d6b92c91699f" ChangeDateTime="11/21/2023 07:22:04">
+    <Property Name="ElementName" Value="[dbo].[Countries].[GeographyLevel1D]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Countries]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="GeographyLevel1ID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b2a91b34-dd20-4901-8b96-d6ce775f270a" ChangeDateTime="11/21/2023 07:22:07">
+    <Property Name="ElementName" Value="[dbo].[Countries].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Countries]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="GeographyLevel1ID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="37d9fda0-4815-4ad6-8f16-96018d666123" ChangeDateTime="11/21/2023 07:22:59">
+    <Property Name="ElementName" Value="[dbo].[Route].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Route]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="RouteID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="d1f314e2-6ed3-45a6-b070-47fa165745ee" ChangeDateTime="11/21/2023 08:15:38">
+    <Property Name="ElementName" Value="[dbo].[AirportGroup].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[AirportGroup]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="AirportGroupID" />
+  </Operation>
+</Operations>
